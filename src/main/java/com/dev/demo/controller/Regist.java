@@ -7,6 +7,6 @@ public class Regist {
 	}
 
 	public void say(){
-		System.out.println("");
+		System.out.println("123");
 	}
 }
