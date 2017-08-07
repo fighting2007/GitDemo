@@ -6,4 +6,7 @@ public class Regist {
 		System.out.println("this is dev branch");
 	}
 
+	public void say(){
+		System.out.println("");
+	}
 }
