@@ -8,5 +8,6 @@ public class Regist {
 
 	public void say() {
 		System.out.println("hello branch master");
+		System.out.println("this is dev branch 123");
 	}
 }
