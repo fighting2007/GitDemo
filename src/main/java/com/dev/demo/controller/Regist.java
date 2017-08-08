@@ -10,5 +10,6 @@ public class Regist {
 		System.out.println("hello branch master");
 		System.out.println("this is dev branch 123");
 		System.out.println("rebase demo");
+		System.out.println("rebase demo 123");
 	}
 }
